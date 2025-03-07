@@ -37,3 +37,7 @@ jobs:
 
       - name: Another script
         run: echo Hello from another script
+
+        # More actions to workflow
+      - name: Another new script
+        run: echo Hello from another new script
