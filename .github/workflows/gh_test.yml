@@ -43,4 +43,4 @@ jobs:
         run: echo Hello from another new script
 
       - name: Other Script
-        run: Practice with other script
+        run: echo Practice with other script
